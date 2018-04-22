@@ -55,8 +55,8 @@
 7. Pig modes
 	1. Local mode	=> pig -x local
 	2. Mapreduce	=> pig -x mapreduce
-	3. Spark        => pig - spark
-	4. Tez		=> pig - tez
+	3. Spark        => pig -spark
+	4. Tez		=> pig -tez
 	5. Tez Local	=> pig -x tez_local
 	6. Spark Local  => pig -x spark_local
 	
