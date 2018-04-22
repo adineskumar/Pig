@@ -21,7 +21,7 @@ Pig Data types
 		|			|				|Be aware that when 1/3 may lead to	|			|
 		|			|				|out of memory error. So you might 	|			|
 		|			|				|need to cast to bigdecimal		|			|
-		------------------------------------------------------------------------------------------------------------------------
+		-------------------------------------------------------------------------------------------------------------------------
 		|	Chararray	|	java.lang.String	|					|	'fred'		|
 		|	Boolean		|	java.lang.Boolean	|	not case sensitive		|	true, false	|
 		|	datetime	|	org.joda.time.DateTime	|					|			|
