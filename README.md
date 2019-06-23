@@ -1,2 +1,2 @@
 # Pig
-This folder contains all the examples for PIG
+This folder contains all the examples for PIG.
